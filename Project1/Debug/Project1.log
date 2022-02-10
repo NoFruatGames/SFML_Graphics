@@ -1,10 +1,10 @@
 ﻿  main.cpp
-C:\Users\10522\Desktop\SMFL_Library\Project1\Project1\main.cpp(33,36): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-C:\Users\10522\Desktop\SMFL_Library\Project1\Project1\main.cpp(33,32): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-C:\Users\10522\Desktop\SMFL_Library\Project1\Project1\main.cpp(34,36): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-C:\Users\10522\Desktop\SMFL_Library\Project1\Project1\main.cpp(34,32): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-C:\Users\10522\Desktop\SMFL_Library\Project1\Project1\main.cpp(35,36): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-C:\Users\10522\Desktop\SMFL_Library\Project1\Project1\main.cpp(35,32): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-C:\Users\10522\Desktop\SMFL_Library\Project1\Project1\main.cpp(36,36): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-C:\Users\10522\Desktop\SMFL_Library\Project1\Project1\main.cpp(36,32): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\10522\Desktop\SMFL_Library\Project1\Project1\main.cpp(28,50): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\10522\Desktop\SMFL_Library\Project1\Project1\main.cpp(28,34): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\10522\Desktop\SMFL_Library\Project1\Project1\main.cpp(29,50): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\10522\Desktop\SMFL_Library\Project1\Project1\main.cpp(29,34): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\10522\Desktop\SMFL_Library\Project1\Project1\main.cpp(30,50): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\10522\Desktop\SMFL_Library\Project1\Project1\main.cpp(30,34): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\10522\Desktop\SMFL_Library\Project1\Project1\main.cpp(31,50): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\10522\Desktop\SMFL_Library\Project1\Project1\main.cpp(31,34): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
   Project1.vcxproj -> C:\Users\10522\Desktop\SMFL_Library\Project1\Debug\Project1.exe

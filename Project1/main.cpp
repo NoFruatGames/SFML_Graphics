@@ -21,19 +21,14 @@ int main()
 		window.clear(Color(255,255,255));
 		Image code;
 		code.loadFromFile("Debug/Code.png");
-		//Sprite s1(code);
-		//window.draw(s1);
-		float p1=0;
-		float p2=0;
 		for (int i = 0; i < 19; ++i)
 		{
-			p1 = 0;
 			for (int j = 0; j < 19; ++j)
 			{
-				int r = (int)code.getPixel(p1, p2).r;
-				int g = (int)code.getPixel(p1, p2).g;
-				int b = (int)code.getPixel(p1, p2).b;
-				int a = (int)code.getPixel(p1, p2).a;
+				int r = (int)code.getPixel(j * pixel_size, i * pixel_size).r;
+				int g = (int)code.getPixel(j * pixel_size, i * pixel_size).g;
+				int b = (int)code.getPixel(j * pixel_size, i * pixel_size).b;
+				int a = (int)code.getPixel(j * pixel_size, i * pixel_size).a;
 				if (r > 0 && r < 20)
 					r = 0;
 				if (g > 0 && g < 20)
@@ -55,9 +50,7 @@ int main()
 				{
 					f[i][j] = 1;
 				}
-				p1 += pixel_size;
 			}
-			p2 += pixel_size;
 		}
 
 		window.display();
